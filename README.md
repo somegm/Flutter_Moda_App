@@ -1,6 +1,6 @@
 # fluttermodaapp
 
-A new Flutter application.
+Fluuter Moda Uygulaması
 
 ## Getting Started
 
